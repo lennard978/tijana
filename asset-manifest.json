@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tijana/static/css/main.6e042833.css",
+    "main.js": "/tijana/static/js/main.35bf11f4.js",
+    "static/js/377.747f57e9.chunk.js": "/tijana/static/js/377.747f57e9.chunk.js",
+    "service-worker.js": "/tijana/service-worker.js",
+    "index.html": "/tijana/index.html",
+    "main.6e042833.css.map": "/tijana/static/css/main.6e042833.css.map",
+    "main.35bf11f4.js.map": "/tijana/static/js/main.35bf11f4.js.map",
+    "377.747f57e9.chunk.js.map": "/tijana/static/js/377.747f57e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e042833.css",
+    "static/js/main.35bf11f4.js"
+  ]
+}
